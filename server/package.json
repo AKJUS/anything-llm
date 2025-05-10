@@ -58,7 +58,7 @@
     "js-tiktoken": "^1.0.8",
     "jsonrepair": "^3.7.0",
     "jsonwebtoken": "^9.0.0",
-    "langchain": "0.1.36",
+    "langchain": "0.2.19",
     "mime": "^3.0.0",
     "moment": "^2.29.4",
     "mssql": "^10.0.2",
