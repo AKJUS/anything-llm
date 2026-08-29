@@ -13,7 +13,7 @@
     "http-proxy-middleware": "^3.0.0",
     "node-html-parser": "^7.0.1",
     "turndown": "^7.2.0",
-    "uuid": "^11.1.0",
+    "uuid": "^14.0.0",
     "ws": "^8.18.0",
     "xlsx": "^0.18.5"
   }
